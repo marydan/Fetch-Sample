@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "i02",
+      "itemname": "Mask",
+      "price": 30
+    },
+    {
+      "id": "i03",
+      "itemname": "Iron Tonic",
+      "price": 450
+    },
+    {
+      "id": "i04",
+      "itemname": "Insulin",
+      "price": 100
+    }
+  ]
+}

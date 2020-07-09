@@ -1,0 +1,17 @@
+{
+  "name": "mocha-examples",
+  "version": "1.0.0",
+  "description": "ust test cases",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "mary",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}

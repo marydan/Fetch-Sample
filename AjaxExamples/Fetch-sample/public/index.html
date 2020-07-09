@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch</title>
+    <script src="./fetchfun.js"></script>
+    <style>
+        p
+        {
+            height:50px;
+        }
+    </style>
+</head>
+<body>
+    <h1> ABC Medicorp Inc</h1>
+
+    <form name=frmitem>
+    Enter Id <input type=text name=txtid> <br>
+    Enter Name <input type=text name=txtname><br>
+    <button onclick="addData(event)">Add Item </button>
+    </form>
+<p></p>
+    <div id="clsdisplay">  </div>
+<p></p>
+          <form name=frmmodify>
+    Enter Id <input type=text name=txtid disabled> <br>
+    Enter Name <input type=text name=txtname><br>
+    <button onclick="saveData(event)">Update Item </button>
+    </form>
+
+
+  
+
+</body>
+</html>
+
+
+
+
